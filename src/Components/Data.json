@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Marvel",
+        "tel":"0999999999",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"IronMan",
+        "tel":"0888888888",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Thor",
+        "tel":"0777777777",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"Queen",
+        "tel":"0666666666",
+        "permission":1
+    },
+    {
+        "id":5,
+        "name":"Hulk",
+        "tel":"0555555555",
+        "permission":2
+    }
+
+]
